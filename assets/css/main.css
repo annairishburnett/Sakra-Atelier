@@ -500,11 +500,12 @@ input, select, textarea {
 /* Type */
 
 	body, input, textarea, select {
-		font-family: "Source Sans Pro", "sans-serif";
+		font-family: "mr-eaves-xl-modern", sans-serif;
 		font-weight: 300;
-		font-size: 18pt;
+		font-size: 18px;
+		font-style: normal;
 		line-height: 1.75em;
-		color: #39454b;
+		color: #191915;
 		letter-spacing: 0.025em;
 	}
 
@@ -616,7 +617,6 @@ input, select, textarea {
 
 	p, ul, ol, dl, table {
 		margin-bottom: 1em;
-		font-size: 1.2em;
 	}
 
 /* Box */
